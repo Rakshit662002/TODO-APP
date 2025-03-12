@@ -2,7 +2,7 @@
 
 # **📝 To-Do List Application**  
 
-A simple **To-Do List** application built using **ColdFusion (CFML)** with a **PostgreSQL** database. This project allows users to **add, update, and delete tasks** in a structured and efficient way.
+A simple **To-Do List** application built using **ColdFusion (CFML)** with a **MYSQL** database. This project allows users to **add, update, and delete tasks** in a structured and efficient way.
 
 ---
 
